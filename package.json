@@ -1,0 +1,8 @@
+{
+  "name": "local-storage-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Otávio Lima <joseotaviodelima@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
